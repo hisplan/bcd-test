@@ -1,5 +1,7 @@
+import math
+
 def get_pi():
-    return 3.1415
+    return math.pi
 
 
 def get_circumference(radius):
